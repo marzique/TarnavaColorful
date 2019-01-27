@@ -1,5 +1,7 @@
 # TarnavaColorful
 Custom color theme for Sublime Text
+Made by me using: http://tmtheme-editor.herokuapp.com/
+feel free to use, modify, od everything you want!
 
 ### SCREENSHOTS
 ![image](https://user-images.githubusercontent.com/25755345/51804311-e1655080-2267-11e9-8ae1-898342822379.png)
